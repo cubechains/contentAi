@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Terms and Conditions for Content AI</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+            color: #222;
+        }
+        h1, h2 {
+            color: #000;
+        }
+        ul {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Terms and Conditions for Content AI</h1>
+
+<p><strong>Last updated:</strong> 2026-01-13</p>
+
+<p>
+These Terms and Conditions ("Terms") govern your use of the <strong>Content AI</strong>
+mobile application ("App"), developed and operated by <strong>CubeChain</strong>.
+By downloading, accessing, or using the App, you agree to be bound by these Terms.
+If you do not agree, please discontinue use of the App.
+</p>
+
+<hr>
+
+<h2>1. Description of the Service</h2>
+
+<p>
+Content AI is an entertainment and creative assistance application that provides
+offline Artificial Intelligence (AI) features, including but not limited to:
+</p>
+
+<ul>
+    <li>Offline AI chat</li>
+    <li>Offline object detection</li>
+    <li>Text generation</li>
+    <li>Image, audio, and video assistance features</li>
+    <li>Creative motivation and content ideas</li>
+</ul>
+
+<p>
+All AI processing is performed <strong>locally on the user’s device</strong>.
+The App does not require user account registration.
+</p>
+
+<hr>
+
+<h2>2. Acceptance of Terms</h2>
+
+<p>
+By using the App, you acknowledge that you have read, understood, and agree to
+these Terms. These Terms are effective upon first use of the App.
+</p>
+
+<p>
+We reserve the right to modify these Terms at any time.
+Continued use of the App after changes are posted constitutes acceptance of
+the updated Terms.
+</p>
+
+<hr>
+
+<h2>3. User Responsibilities</h2>
+
+<p>
+You agree to use the App only for lawful purposes and in accordance with
+applicable laws and regulations.
+</p>
+
+<p>You must not:</p>
+<ul>
+    <li>Use the App for illegal, harmful, abusive, or misleading activities</li>
+    <li>Attempt to reverse-engineer or tamper with the App</li>
+    <li>Use AI-generated content in a way that violates laws or third-party rights</li>
+</ul>
+
+<p>
+You are solely responsible for any content you create, modify, or use
+through the App.
+</p>
+
+<hr>
+
+<h2>4. Data and Privacy</h2>
+
+<p>
+Content AI processes user-provided data (such as text, images, audio, or video)
+<strong>only on the device</strong> for offline AI functionality.
+</p>
+
+<p>
+We do not store, monitor, or upload user content to any server.
+For more details, please review our
+<a href="../contentAi/" target="_blank">Privacy Policy</a>.
+</p>
+
+<hr>
+
+<h2>5. Third-Party Services</h2>
+
+<p>
+The App may integrate third-party services such as Google Play Services,
+AdMob, or Unity for app distribution, advertising, and performance monitoring.
+</p>
+
+<p>
+We are not responsible for third-party services or their content.
+Use of such services is governed by their respective terms and policies.
+</p>
+
+<hr>
+
+<h2>6. Intellectual Property</h2>
+
+<p>
+All App assets, including but not limited to design, interface, logos,
+graphics, and software code, are the intellectual property of
+<strong>CubeChain</strong> unless otherwise stated.
+</p>
+
+<p>
+You may not copy, modify, distribute, or commercially exploit any part of the App
+without prior written permission.
+</p>
+
+<hr>
+
+<h2>7. AI Content Disclaimer</h2>
+
+<p>
+AI-generated content provided by Content AI is for
+<strong>entertainment, creativity, and assistance purposes only</strong>.
+</p>
+
+<p>
+We do not guarantee the accuracy, completeness, reliability, or suitability
+of AI-generated outputs. Users are fully responsible for how they use such content.
+</p>
+
+<hr>
+
+<h2>8. Disclaimer of Warranties</h2>
+
+<p>
+The App is provided on an <strong>"AS IS"</strong> and <strong>"AS AVAILABLE"</strong> basis.
+We make no warranties of any kind, express or implied, including fitness for
+a particular purpose or non-infringement.
+</p>
+
+<p>
+We do not guarantee uninterrupted or error-free operation of the App.
+</p>
+
+<hr>
+
+<h2>9. Limitation of Liability</h2>
+
+<p>
+To the maximum extent permitted by law, CubeChain shall not be liable for any
+indirect, incidental, special, or consequential damages arising out of or
+related to your use of the App.
+</p>
+
+<p>
+Use of the App is entirely at your own risk.
+</p>
+
+<hr>
+
+<h2>10. Third-Party Content</h2>
+
+<p>
+CubeChain is not responsible for third-party content, promotions, or materials
+created independently by users or external entities.
+</p>
+
+<p>
+Any use of copyrighted material through the App is the responsibility of the user.
+</p>
+
+<hr>
+
+<h2>11. Termination</h2>
+
+<p>
+We reserve the right to suspend or terminate access to the App at any time,
+without notice, if these Terms are violated.
+</p>
+
+<hr>
+
+<h2>12. Children’s Use</h2>
+
+<p>
+Content AI is not intended for children under the age of 13.
+We do not knowingly collect personal information from children.
+</p>
+
+<hr>
+
+<h2>13. International Use</h2>
+
+<p>
+Users are responsible for compliance with local laws when accessing or using the App.
+</p>
+
+<hr>
+
+<h2>14. Governing Law</h2>
+
+<p>
+These Terms shall be governed and interpreted in accordance with applicable laws,
+without regard to conflict of law principles.
+</p>
+
+<hr>
+
+<h2>15. Contact Information</h2>
+
+<p>
+If you have any questions regarding these Terms and Conditions, please contact us:
+</p>
+
+<p>
+📧 <strong>Email:</strong> chainscube@gmail.com
+</p>
+
+</body>
+</html>
